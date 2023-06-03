@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @bsce21016
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bsce21016/bsce21016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Fatima Ehsan.
+- 👀 I’m interested in both hardware and software developement.
+- 🌱 I’m currently doing Bachelors of Science in Computer Engineering.
+- 📫 You can reach out to me through my email. (fatimaehsan001@gmail.com)
